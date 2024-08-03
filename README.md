@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @JulianSilva2001
-- 👀 I’m interested in Robotics, Machine Learning and Embedded Systems
-- 🌱 I’m currently studying Electronic and Telecommunication Engineering at University of  Moratuwa
-- 💞️ I’m looking to collaborate on Robotics, Machine Learning and Embedded Systems Projects
+# 👋 Hello! I'm [Julian Silva]
 
-<!---
-JulianSilva2001/JulianSilva2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a Robotics and Machine Learning Enthusiast from Sri Lanka 🇱🇰 
+
+👨🏼‍🎓 Studying Electronic and Telecommunication Engineering at the University of Moratuwa
+
+🤖 Currently working on [RoboticGen](#)
+
+
+## Connect with Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silva.ljjp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/julian-silva-1abb98263/))
+
+
+## Skills
+- **Programming Languages:** C, C++,Arduino, Python, Java, Kotlin
+- **Machine Learning Libraries/Tools:** TensorFlow, Mediapipe OpenCV, YOLO, Scikit-learn
+- **Embedded Systems Development Platforms:** ESP32, STM32, Raspberry Pi, Arduino
+- **Electronic Design Automation Tools:** Altium, LTspice, Verilog
+- **Software Development Frameworks:** Node.js, React.js, React,Native, Spring Boot, Firebase, Node-Red
+- **Computer-Aided Design Software:** SolidWorks
+  
+
