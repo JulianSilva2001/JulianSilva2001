@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Julian Silva]
+# 👋 Hello! I'm Julian Silva
 
 ## About Me
 I'm a Robotics and Machine Learning Enthusiast from Sri Lanka 🇱🇰 
