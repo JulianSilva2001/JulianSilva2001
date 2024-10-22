@@ -5,7 +5,7 @@ I'm a Robotics and Machine Learning Enthusiast from Sri Lanka 🇱🇰
 
 👨🏼‍🎓 Studying Electronic and Telecommunication Engineering at the University of Moratuwa
 
-🤖 Currently working on [RoboticGen](#)
+🤖 Currently working at [RoboticGen](#)
 
 
 ## Connect with Me
